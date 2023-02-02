@@ -1,0 +1,13 @@
+version: '3.1'
+
+services:
+  php:
+    image: php:8.1-apache
+    container_name: site-tgc-engenharia-ambiental
+    ports:
+      - "8782:80"
+    volumes:
+      - ./:/var/www/html
+    networks:
+      - default
+    
