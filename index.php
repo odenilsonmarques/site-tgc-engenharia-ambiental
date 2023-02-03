@@ -5,13 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>Inicio</title>
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-dark" style="background-color:#54B435">
             <div class="container">
-                <a class="navbar-brand" href="index.html">TGC - Controle Ambiental</a>
+                <a class="navbar-brand" href="index.html">Tgc</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -31,16 +32,14 @@
             </div>
         </nav>
     </header>
-    <section>
+    <section class="hero">
         <div class="container">
-            <div>
-                <h1 class="text-left mt-5">
-                    TGC - Controle Ambiental <br>
-                    Engenharia e Consultoria
-                </h1>
+            <div class="row">
+                <div class="col-12 text-hero">
+                    <h1 class="text-center mt-5">TGC - Controle Ambiental</h1>
+                    <h2 class="text-center mt-3">Engenharia e Consultoria</h2>
+                </div>
             </div>
-        <div></div>
-
         </div>
     </section>
     

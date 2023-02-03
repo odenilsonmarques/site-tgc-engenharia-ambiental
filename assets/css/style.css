@@ -1,0 +1,11 @@
+.hero{
+    /* border: 1px solid black; */
+    background-color: #54B435;
+    color: #fff;
+    height: 300px;
+    
+}
+.text-hero{
+    margin-top: 30px;
+    text-shadow: 2px 2px 5px #111;
+}
