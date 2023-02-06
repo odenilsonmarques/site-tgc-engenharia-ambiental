@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-dark" style="background-color:#54B435">
+        <nav class="navbar navbar-expand-sm navbar-dark" style="background-color:#379237">
             <div class="container">
                 <a class="navbar-brand" href="index.html">Tgc</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -33,11 +33,14 @@
         </nav>
     </header>
     <section class="hero">
-        <div class="container">
+        <div class="container slide">
             <div class="row">
-                <div class="col-12 text-hero">
-                    <h1 class="text-center mt-5">TGC - Controle Ambiental</h1>
-                    <h2 class="text-center mt-3">Engenharia e Consultoria</h2>
+                <div class="col-6 text-hero">
+                    <h1 class="mt-5">TGC - Controle Ambiental</h1>
+                    <h2 class="mt-2">Engenharia e Consultoria</h2>
+                </div>
+                <div class="col-6 img-hero">
+                    <img src="assets/img/mulher.png" class="img-fluid" alt="imagem-destaque" width="250px" height="400px">
                 </div>
             </div>
         </div>
