@@ -43,43 +43,46 @@
             <div class="row services">
                 <div class="col-sm-4">
                     <div class="card">
-                        <div class="card-body">
-                            
-                            <h5 class="card-title">Alvará de funcionamento</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                        <div class="card-body text-center">
+                            <img src="assets/img/documento.png" alt="alvará de funcionamento">
+                            <h5 class="card-title mt-3">Alvará de funcionamento</h5>
+                            <p class="card-text">
+                                O Alvará de funcionamento é um documento fundamental para garantir a regularidade de uma empresa
+                                e seu funcionamento adequado.
+                            </p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Licenciamento ambiental</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                        <div class="card-body text-center">
+                            <img src="assets/img/termo.png" alt="licenciamento ambiental">
+                            <h5 class="card-title mt-3">Licenciamento ambiental</h5>
+                            <p class="card-text">
+                                O processo de Licenciamento Ambiental envolve estudos e avaliações ambientais que 
+                                demonstrem como a atividade econômica será realizada.
+                            </p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm-4">
                     <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Georrefereciamento</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                        <div class="card-body text-center">
+                            <img src="assets/img/geolocalizacao.png" alt="georreferenciamento">
+                            <h5 class="card-title mt-3">Georrefereciamento</h5>
+                            <p class="card-text">
+                                O Georreferenciamento vincula informações geográficas a dados cadastrais, como endereços,
+                                propriedades rurais e urbanas, entre outros.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
             <a href="services" class="nav-link float-end mt-3">Ver todos</a>
         </div>
-
     </section>
-    
     <footer>
         <div class="container">
             <div class="row">
