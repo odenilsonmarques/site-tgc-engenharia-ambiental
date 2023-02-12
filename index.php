@@ -60,7 +60,7 @@
                             <img src="assets/img/termo.png" alt="licenciamento ambiental">
                             <h5 class="card-title mt-3">Licenciamento ambiental</h5>
                             <p class="card-text">
-                                O processo de Licenciamento Ambiental envolve a apresentação de estudos e avaliações ambientais que 
+                                O processo de Licenciamento Ambiental envolve estudos e avaliações ambientais que 
                                 demonstrem como a atividade econômica será realizada.
                             </p>
                         </div>
@@ -73,7 +73,7 @@
                             <img src="assets/img/geolocalizacao.png" alt="georreferenciamento">
                             <h5 class="card-title mt-3">Georrefereciamento</h5>
                             <p class="card-text">
-                                Georreferenciamento é o processo de vinculação de informações geográficas a dados cadastrais, como endereços,
+                                O Georreferenciamento vincula informações geográficas a dados cadastrais, como endereços,
                                 propriedades rurais e urbanas, entre outros.
                             </p>
                         </div>
@@ -82,9 +82,7 @@
             </div>
             <a href="services" class="nav-link float-end mt-3">Ver todos</a>
         </div>
-
     </section>
-    
     <footer>
         <div class="container">
             <div class="row">
