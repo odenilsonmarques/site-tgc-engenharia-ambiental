@@ -36,7 +36,7 @@
         <div class="container slide">
             <div class="row">
                 <div class="col-12 text-hero">
-                    <h1 class="mt-5">TGC - Controle Ambiental</h1>
+                    <h1 class="mt-3">TGC - Controle Ambiental</h1>
                     <h2 class="mt-2">Engenharia e Consultoria</h2>
                 </div>
             </div>
@@ -83,6 +83,21 @@
             <a href="services" class="nav-link float-end mt-3">Ver todos</a>
         </div>
     </section>
+
+    <section>
+        <div class="container">
+            <div class="row mt-5">
+                <h2>Sobre nós</h2>
+                <div class="col-lg-6"></div>
+                <div class="col-lg-6"></div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
     <footer>
         <div class="container">
             <div class="row">
