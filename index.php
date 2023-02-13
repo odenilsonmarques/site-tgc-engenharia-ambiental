@@ -86,10 +86,14 @@
 
     <section>
         <div class="container">
-            <div class="row mt-5">
-                <h2>Sobre nós</h2>
-                <div class="col-lg-6"></div>
-                <div class="col-lg-6"></div>
+            <div class="row about mt-5">
+                <h2 class="text-center">Sobre nós</h2>
+                <div class="col-lg-6 text-center">
+                    <img src="assets/img/mulher.png" alt="">
+                </div>
+                <div class="col-lg-6">
+                    <h4 class="text-center">Bem -vindo a Tgc</h4>
+                </div>
             </div>
         </div>
     </section>
