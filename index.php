@@ -91,8 +91,27 @@
                 <div class="col-lg-6 text-center">
                     <img src="assets/img/mulher.png" alt="">
                 </div>
-                <div class="col-lg-6">
-                    <h4 class="text-center">Bem -vindo a Tgc</h4>
+                <div class="col-lg-6 informations">
+                    <h2 class="text-center">Bem -vindo a Tgc</h2>
+                    <p class="shadow p-3 mb-5 bg-body rounded">
+                    A small river named Duden flows by their place and supplies it with the necessary regelialia. 
+                    It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+                    On her way she met a copy. The copy warned the Little Blind Text, that where it came from 
+                    it would have been rewritten a thousand times and everything that was left from its origin 
+                    would be the word "and" and the Little Blind Text should turn around and return to its own, safe countr
+                    </p>
+
+                    <div class="row ">
+                        <div class="col-4 text-center mt-5">
+                            teste
+                        </div>
+                        <div class="col-4 text-center mt-5">
+                            teste
+                        </div>
+                        <div class="col-4 text-center mt-5">
+                            teste
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
