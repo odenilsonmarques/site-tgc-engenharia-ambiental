@@ -84,7 +84,7 @@
 
 .about{
     margin-top: 270px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 
 .informations h3{
@@ -94,7 +94,7 @@
 
 .about img{
     opacity: 0.7;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     margin-top: 50px;
 }
 
