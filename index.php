@@ -120,36 +120,43 @@
         </div>
     </section>
 
+    <section>
+        <div class="container">
+            <div class="row our-services">
+                <h2 class="text-center">Nossos Serviços</h2>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3 text-white">Alvará de funcionamento</h5> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Licenciamento ambiental</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Georrefereciamento</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Georrefereciamento</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
   
-
-    <script>
-        const counters = document.querySelectorAll('.value');
-        const speed = 4000;
-
-counters.forEach( counter => {
-   const animate = () => {
-      const value = +counter.getAttribute('akhi');
-      const data = +counter.innerText;
-     
-      const time = value / speed;
-     if(data < value) {
-          counter.innerText = Math.ceil(data + time);
-          setTimeout(animate, 1);
-        }else{
-          counter.innerText = value;
-        }
-     
-   }
-   
-   animate();
-});
-
-
-
-    
-    </script>
-
-
 
 
 
@@ -163,6 +170,7 @@ counters.forEach( counter => {
         </div>
     </footer>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/scriptCountNumber.js"></script>
     <!-- <script src="https://cdn.jsdelivr.net/npm/countup.js"></script> -->
 </body>
 </html>

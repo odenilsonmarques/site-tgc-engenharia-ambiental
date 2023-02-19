@@ -124,3 +124,17 @@
     font-size: 25px;
     font-weight: bold;
   }
+
+  .our-services{
+    margin-top: 150px;
+    border: 1px solid red;
+  }
+
+ .our-services .card{
+    background-color:#54B435;
+    margin-top: 60px;
+ }
+                           
+.our-services .card-title{
+    color: #fff;
+ }
