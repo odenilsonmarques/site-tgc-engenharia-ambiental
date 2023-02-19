@@ -36,7 +36,7 @@
         <div class="container slide">
             <div class="row">
                 <div class="col-12 text-hero">
-                    <h1 class="mt-5">TGC - Controle Ambiental</h1>
+                    <h1 class="mt-3">TGC - Controle Ambiental</h1>
                     <h2 class="mt-2">Engenharia e Consultoria</h2>
                 </div>
             </div>
@@ -83,6 +83,76 @@
             <a href="services" class="nav-link float-end mt-3">Ver todos</a>
         </div>
     </section>
+
+    <section>
+        <div class="container">
+            <div class="row about mt-5">
+                <h2 class="text-center">Sobre nós</h2>
+                <div class="col-lg-6 text-center">
+                    <img src="assets/img/mulher.png" alt="">
+                </div>
+                <div class="col-lg-6 informations">
+                    <h3 class="text-center">Bem -vindo a Tgc</h3>
+                    <p class="shadow rounded">
+                        A small river named Duden flows by their place and supplies it with the necessary regelialia. 
+                        It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+                        On her way she met a copy. The copy warned the Little Blind Text, that where it came from 
+                        it would have been rewritten a thousand times and everything that was left from its origin 
+                        would be the word "and" and the Little Blind Text should turn around and return to its own, safe countr
+                    </p>
+
+                    <div class="row mt-5">
+                        <div class="col-4 text-center mt-5">
+                            <h5>Alvará</h5>
+                            <span>+ </span><span class="value" akhi="1000">0</span>
+                        </div>
+                        <div class="col-4 text-center mt-5">
+                            <h5>Licenças</h5>
+                            <span>+ </span><span class="value" akhi="1000">0</span>
+                        </div>
+                        <div class="col-4 text-center mt-5">
+                            <h5>Laudos</h5>
+                            <span>+ </span><span class="value" akhi="1000">0</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  
+
+    <script>
+        const counters = document.querySelectorAll('.value');
+        const speed = 4000;
+
+counters.forEach( counter => {
+   const animate = () => {
+      const value = +counter.getAttribute('akhi');
+      const data = +counter.innerText;
+     
+      const time = value / speed;
+     if(data < value) {
+          counter.innerText = Math.ceil(data + time);
+          setTimeout(animate, 1);
+        }else{
+          counter.innerText = value;
+        }
+     
+   }
+   
+   animate();
+});
+
+
+
+    
+    </script>
+
+
+
+
+
     <footer>
         <div class="container">
             <div class="row">
@@ -93,5 +163,6 @@
         </div>
     </footer>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/countup.js"></script> -->
 </body>
 </html>
