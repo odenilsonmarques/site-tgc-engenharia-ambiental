@@ -127,38 +127,65 @@
                 <div class="col-sm-3">
                     <div class="card">
                         <div class="card-body text-center">
-                            <h5 class="card-title mt-3 text-white">Alvará de funcionamento</h5> 
+                            <h5 class="card-title mt-3">Alvará de funcionamento</h5> 
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="card">
                         <div class="card-body text-center">
-                            <h5 class="card-title mt-3">Licenciamento ambiental</h5>
+                        <h5 class="card-title mt-3">Alvará <br> sanitário</h5> 
+                            <!-- <h5 class="card-title mt-3">Licenciamento ambiental</h5> -->
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="card">
                         <div class="card-body text-center">
-                            <h5 class="card-title mt-3">Georrefereciamento</h5>
+                            <h5 class="card-title mt-3">Autorização de supressão vegetal</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="card">
                         <div class="card-body text-center">
-                            <h5 class="card-title mt-3">Georrefereciamento</h5>
+                            <h5 class="card-title mt-3">Autorização de limpeza de área</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Acompanhamento de processos ...</h5> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                        <h5 class="card-title mt-3">Acessoria em caso de multa ...</h5> 
+                            <!-- <h5 class="card-title mt-3">Licenciamento ambiental</h5> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Anuência pelo <br> IPHAN </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Certificado do corpo de bombeiro</h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-  
-
-
 
     <footer>
         <div class="container">
