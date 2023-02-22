@@ -125,9 +125,15 @@
     font-weight: bold;
   }
 
+  .section-service{
+    background-color: #F8F8FF;
+  }
+
   .our-services{
     margin-top: 150px;
     /* border: 1px solid red; */
+    background-color: #F8F8FF;
+    padding-bottom: 100px;
   }
 
  .our-services .card{

@@ -120,10 +120,10 @@
         </div>
     </section>
 
-    <section>
+    <section class="section-service">
         <div class="container">
             <div class="row our-services">
-                <h2 class="text-center">Nossos Serviços</h2>
+                <h2 class="text-center mt-3">Nossos Serviços</h2>
                 <div class="col-sm-3">
                     <div class="card">
                         <div class="card-body text-center">
@@ -183,8 +183,35 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="row">
+                    
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Certificado do corpo de bombeiro</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <a href="#" data-bs-toggle="collapse" data-bs-target=".multi-collapse" class="mt-3">Ver todos</a>
+                    </div>
+                </div>
             </div>
+
+            
+            
         </div>
+        
+    </section>
+
+    <section>
+       
+        
+
+        
     </section>
 
     <footer>
