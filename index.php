@@ -184,21 +184,103 @@
                     </div>
                 </div>
 
-                <div class="row">
+                
                     
                     <div class="col-sm-3">
                         <div class="collapse multi-collapse" id="collapseExample">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <h5 class="card-title mt-3">Certificado do corpo de bombeiro</h5>
+                                    <h5 class="card-title mt-3">Dispensa de <br/> licençiamento ambiental</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Desmembramento</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Georefenciamento</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Licenciamento Ambiental</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Laudo de emissão de ruídos</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Montiramento de condicionante</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Ortoga de uso de água de poço</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Planos, programas e relatorios ambientais</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Regularização fundiária</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="d-grid gap-2 d-md-flex justify-content-md-end">
                         <a href="#" data-bs-toggle="collapse" data-bs-target=".multi-collapse" class="mt-3">Ver todos</a>
                     </div>
-                </div>
+                
             </div>
 
             
