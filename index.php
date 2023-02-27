@@ -88,10 +88,10 @@
         <div class="container">
             <div class="row about mt-5">
                 <h2 class="text-center">Sobre nós</h2>
-                <div class="col-lg-6 text-center">
+                <div class="col-lg-6 text-center" data-anime="left">
                     <img src="assets/img/mulher.png" alt="">
                 </div>
-                <div class="col-lg-6 informations">
+                <div class="col-lg-6 informations" data-anime="right">
                     <h3 class="text-center">Bem -vindo a Tgc</h3>
                     <p class="shadow rounded">
                         A small river named Duden flows by their place and supplies it with the necessary regelialia. 
@@ -121,7 +121,7 @@
     </section>
 
     <section class="section-service">
-        <div class="container">
+        <div class="container" data-anime="top">
             <div class="row our-services">
                 <h2 class="text-center mt-3">Nossos Serviços</h2>
                 <div class="col-sm-3">
@@ -307,6 +307,7 @@
     </footer>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/scriptCountNumber.js"></script>
+    <script src="assets/js/anime.js"></script>
     <!-- <script src="https://cdn.jsdelivr.net/npm/countup.js"></script> -->
 </body>
 </html>
