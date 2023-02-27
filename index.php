@@ -120,38 +120,181 @@
         </div>
     </section>
 
-  
+    <section class="section-service">
+        <div class="container">
+            <div class="row our-services">
+                <h2 class="text-center mt-3">Nossos Serviços</h2>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Alvará de funcionamento</h5> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                        <h5 class="card-title mt-3">Alvará <br> sanitário</h5> 
+                            <!-- <h5 class="card-title mt-3">Licenciamento ambiental</h5> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Autorização de supressão vegetal</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Autorização de limpeza de área</h5>
+                        </div>
+                    </div>
+                </div>
 
-    <script>
-        const counters = document.querySelectorAll('.value');
-        const speed = 4000;
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Acompanhamento de processos ...</h5> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                        <h5 class="card-title mt-3">Acessoria em caso de multa ...</h5> 
+                            <!-- <h5 class="card-title mt-3">Licenciamento ambiental</h5> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Anuência pelo <br> IPHAN </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title mt-3">Certificado do corpo de bombeiro</h5>
+                        </div>
+                    </div>
+                </div>
 
-counters.forEach( counter => {
-   const animate = () => {
-      const value = +counter.getAttribute('akhi');
-      const data = +counter.innerText;
-     
-      const time = value / speed;
-     if(data < value) {
-          counter.innerText = Math.ceil(data + time);
-          setTimeout(animate, 1);
-        }else{
-          counter.innerText = value;
-        }
-     
-   }
-   
-   animate();
-});
+                
+                    
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Dispensa de <br/> licençiamento ambiental</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
+                    
 
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Desmembramento</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-    
-    </script>
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Georefenciamento</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Licenciamento Ambiental</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Laudo de emissão de ruídos</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Montiramento de condicionante</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Ortoga de uso de água de poço</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Planos, programas e relatorios ambientais</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="collapse multi-collapse" id="collapseExample">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title mt-3">Regularização fundiária</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <a href="#" data-bs-toggle="collapse" data-bs-target=".multi-collapse" class="mt-3">Ver todos</a>
+                    </div>
+                
+            </div>
+
+            
+            
+        </div>
+        
+    </section>
+
+    <section>
+       
+        
+
+        
+    </section>
 
     <footer>
         <div class="container">
@@ -163,6 +306,7 @@ counters.forEach( counter => {
         </div>
     </footer>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/scriptCountNumber.js"></script>
     <!-- <script src="https://cdn.jsdelivr.net/npm/countup.js"></script> -->
 </body>
 </html>
