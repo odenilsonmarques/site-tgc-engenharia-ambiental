@@ -175,3 +175,13 @@
     opacity: 1;
     transform: translate3d(0px, 0px, 0px);
   }
+
+  .infor-footer{
+    background-color: #54B435;
+    height: 400px;
+  }
+ 
+  .infor-footer h5{
+    color: #fff;
+    font-size:18px;
+  }

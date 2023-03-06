@@ -280,29 +280,32 @@
                     <div class="d-grid gap-2 d-md-flex justify-content-md-end">
                         <a href="#" data-bs-toggle="collapse" data-bs-target=".multi-collapse" class="mt-3">Ver todos</a>
                     </div>
-                
             </div>
-
-            
-            
         </div>
-        
-    </section>
-
-    <section>
-       
-        
-
-        
     </section>
 
     <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center mt-5">
-                    <p class="mt-5">&copy 2023 tgc-controle ambiental</p>
+        <div class="container-fluid infor-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 text-left mt-5">
+                        <h5>Tgc</h5>
+                        <p style="text-align:left" class="mt-4">
+                            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+                        </p>
+                    </div>
+                    <div class="col-lg-2 text-left mt-5">
+                        <h5>Redes sociais</h5>
+                    </div>
+                    <div class="col-lg-2 text-left mt-5">
+                        <h5>Links</h5>
+                    </div>
+                    <div class="col-lg-2 text-left mt-5">
+                        <h5>Contatos</h5>
+                    </div>
                 </div>
             </div>
+            
         </div>
     </footer>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
