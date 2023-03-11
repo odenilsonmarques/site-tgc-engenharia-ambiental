@@ -133,7 +133,7 @@
     margin-top: 150px;
     /* border: 1px solid red; */
     background-color: #F8F8FF;
-    padding-bottom: 100px;
+    padding-bottom: 250px;
   }
 
  .our-services .card{
@@ -176,21 +176,52 @@
     transform: translate3d(0px, 0px, 0px);
   }
 
-  .infor-footer{
+.infor-footer{
     background-color: #54B435;
     height: 400px;
-  }
- 
-  .infor-footer h5{
+}
+
+.infor-footer h5{
     color: #fff;
-    font-size:18px;
-  }
+    font-size:21px;
+}
+
+.infor-footer p{
+    color: #F4EEA9; 
+    line-height: 1.6;
+}
+
+.infor-footer ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.infor-footer ul li{
+    margin-top:10px;
+}
+
+
+.infor-footer li a{
+    text-decoration:none;
+    color: #F4EEA9;
+    
+}
+
 
 .icon{
     margin-right: 10px;
     margin-top: 10px;
+    color: #F4EEA9;
 }
-a.icon{
+
+.icon-conect{
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #F4EEA9;
+}
+
+a.icon-conect{
     color: #F4EEA9;
     text-decoration: none;
 }
