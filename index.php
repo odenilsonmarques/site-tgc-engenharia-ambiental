@@ -123,7 +123,7 @@
     <section class="section-service">
         <div class="container" data-anime="top">
             <div class="row our-services">
-                <h2 class="text-center mt-3">Nossos Serviços</h2>
+                <h2 class="text-center mt-5">Nossos Serviços</h2>
                 <div class="col-sm-3">
                     <div class="card">
                         <div class="card-body text-center">
@@ -280,6 +280,30 @@
                     <div class="d-grid gap-2 d-md-flex justify-content-md-end">
                         <a href="#" data-bs-toggle="collapse" data-bs-target=".multi-collapse" class="mt-3">Ver todos</a>
                     </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <div class="row our-clients" data-anime="top">
+                <h2 class="text-center mt-5">Nossos Clientes</h2>
+               
+                <div class="col-lg-3">
+                    <img src="assets/img/cliente01.png" class="client-logo" alt="" width="170" height="130" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'">
+                </div>
+
+                <div class="col-lg-3">
+                    <img src="assets/img/cliente02.png" alt=""  width="170" height="130" class="client-logo" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'">
+                </div>
+
+                <div class="col-lg-3">
+                    <img src="assets/img/cliente01.png" class="client-logo" alt="" width="170" height="130" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'">
+                </div>
+
+                <div class="col-lg-3">
+                    <img src="assets/img/cliente02.png" alt=""  width="170" height="130" class="client-logo" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'">
+                </div>
             </div>
         </div>
     </section>

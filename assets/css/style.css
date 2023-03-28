@@ -128,14 +128,12 @@
   .section-service{
     background-color: #F8F8FF;
   }
-
   .our-services{
     margin-top: 150px;
     /* border: 1px solid red; */
     background-color: #F8F8FF;
-    padding-bottom: 250px;
+    padding-bottom: 150px;
   }
-
  .our-services .card{
     background-color:#F8F8FF;
     margin-top: 60px;
@@ -144,13 +142,9 @@
  .our-services .card:hover{
     background-color: #82CD47;
    
- }
-                           
+ }                        
 .our-services .card-title{
     color: #54B435;
-
-    
-    
  }
  .our-services .card-title:hover{
     color: #fff;
@@ -224,4 +218,15 @@
 a.icon-conect{
     color: #F4EEA9;
     text-decoration: none;
+}
+
+.client-logo {
+    filter: grayscale(100%);
+  }
+.our-clients{
+    margin-bottom:250px;
+}
+
+.our-clients img{
+    margin-top: 60px;
 }
